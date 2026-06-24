@@ -1,7 +1,7 @@
 # Heyy, I'm Shreya Prasad!
 
 ### 2nd Year Computer Science Student @ BITS Pilani Dubai Campus
-I am a developer driven by curiosity and a love for building software. My core technical interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Cybersecurity**—building intelligent systems while figuring out how to keep them secure. 
+I am a developer driven by curiosity and a love for building software. My core technical interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Cybersecurity**,building intelligent systems while figuring out how to keep them secure. 
 
 **My Approach:** 
 I genuinely love the process of coding and solving puzzles. When I take on a project, I dive in completely, eager to learn whatever new technology is required to get the job done right and see it through to completion.

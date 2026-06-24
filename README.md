@@ -29,7 +29,7 @@ I genuinely love the process of coding and solving puzzles. When I take on a pro
 
 ### 🌐 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyaprasad1637@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyaprasad1637@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-prasad-aa8820339/)
 
 
 ### My Tech Stack

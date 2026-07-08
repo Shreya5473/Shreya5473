@@ -51,4 +51,7 @@ I genuinely love the process of coding and solving puzzles. When I take on a pro
 
 ### 📊 My Coding Activity
 
-![GitHub Metrics](https://metrics.lecoq.io/Shreya5473?base=header,activity,community,repositories&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shreya5473&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreya's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreya5473&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
+</p>

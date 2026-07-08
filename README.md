@@ -49,3 +49,6 @@ I genuinely love the process of coding and solving puzzles. When I take on a pro
 #### IDEs & AI Development Workflows
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97706?style=flat&logo=anthropic&logoColor=white) ![Anti-Gravity](https://img.shields.io/badge/-Anti--Gravity-FF69B4?style=flat&logo=rocket&logoColor=white)
 
+### 📊 My Coding Activity
+
+![GitHub Metrics](https://metrics.lecoq.io/Shreya5473?base=header,activity,community,repositories&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage)

@@ -1,6 +1,6 @@
 # Heyy, I'm Shreya Prasad!
 
-### 2nd Year Computer Science Student @ BITS Pilani Dubai Campus
+### 3rd Year Computer Science Student @ BITS Pilani Dubai Campus
 I am a developer driven by curiosity and a love for building software. My core technical interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Cybersecurity**,building intelligent systems while figuring out how to keep them secure. 
 
 **My Approach:** 

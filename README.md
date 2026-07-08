@@ -49,9 +49,7 @@ I genuinely love the process of coding and solving puzzles. When I take on a pro
 #### IDEs & AI Development Workflows
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97706?style=flat&logo=anthropic&logoColor=white) ![Anti-Gravity](https://img.shields.io/badge/-Anti--Gravity-FF69B4?style=flat&logo=rocket&logoColor=white)
 
-### My Coding Activity
+### 📊 My Coding Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreya5473&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreya's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya5473&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
-</p>
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya5473&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya5473&layout=compact&theme=dark)
